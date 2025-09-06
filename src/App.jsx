@@ -49,7 +49,7 @@ export default function App(){
           <li>GitHub: <a className="text-blue-600" href="https://github.com/abuNassem" target="_blank" rel="noreferrer">github.com/abuNassem</a></li>
           <li>LinkedIn: <a className="text-blue-600" href="https://www.linkedin.com/in/qutaibah-mohamed-188162357/" target="_blank" rel="noreferrer">LinkedIn Profile</a></li>
           <li>
-            <a href="/files/cv.pdf" download className="px-4 py-2 bg-blue-600 text-white rounded-md">
+            <a href="/cv.pdf" download className="px-4 py-2 bg-blue-600 text-white rounded-md">
               Download CV
             </a>
           </li>
