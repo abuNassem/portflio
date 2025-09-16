@@ -31,7 +31,7 @@ export default function App(){
           <ProjectCard
             title="E-commerce Store"
             desc="An online store built with TypeScript, React, Tailwind CSS, and Material UI. Features include: user registration and login with secure data, managing favorites, storing purchases, and browsing available products. Fully integrated with a database for persistent storage and smooth user experience."
-            link="https://my-shop-weld-tau.vercel.app/"
+            link="https://commerce12s.netlify.app/"
           />
           <ProjectCard
             title="Task App"
